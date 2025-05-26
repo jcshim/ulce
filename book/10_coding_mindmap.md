@@ -1,4 +1,5 @@
 # [코딩을 왜 해야 할까?](https://youtu.be/7R8u0PtC7IU?si=Z7khu6a2yxIq7uB3)
+
 # 컴퓨터공학 마인드맵
 
 ```
@@ -80,3 +81,5 @@
     ├── 오픈소스 참여
     ├── 산학 협력
     └── 포트폴리오 구축
+
+# [AI Programming 순서](https://notebooklm.google.com/notebook/5fd1b280-ecd7-426b-9d32-75f1257c47f5)
