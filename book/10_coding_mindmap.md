@@ -82,4 +82,5 @@
     ├── 산학 협력
     └── 포트폴리오 구축
 
-# [AI Programming 순서](https://notebooklm.google.com/notebook/5fd1b280-ecd7-426b-9d32-75f1257c47f5)
+# [AI Programming](https://notebooklm.google.com/notebook/5fd1b280-ecd7-426b-9d32-75f1257c47f5)
+
