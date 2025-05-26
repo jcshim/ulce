@@ -1,3 +1,4 @@
+# [코딩을 왜 해야 할까?](https://youtu.be/7R8u0PtC7IU?si=Z7khu6a2yxIq7uB3)
 # 컴퓨터공학 마인드맵
 
 ```
